@@ -8,7 +8,7 @@
       I share my designs on <a href="https://dribbble.com/burakgur" target="_blank" class="hyperlink">Dribbble</a>. I also love open source and push my codes to
       <a href="https://github.com/burakgur" target="_blank" class="hyperlink">Github</a>.
     </p>
-    <a href="mailto:me@burakgur.com" class="semi hyperlink mt-normal">hi@burakgur.com</a>
+    <a href="https://t.me/burakgur" target="_blank" class="semi hyperlink mt-normal">t.me/burakgur</a>
   </section>
 </template>
 
