@@ -2,6 +2,8 @@
 
 > Burak Gür Personal Website
 
+> Website: [burakgur.com](https://burakgur.com)
+
 ## Build Setup
 
 ``` bash
