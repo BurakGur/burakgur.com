@@ -1,12 +1,12 @@
 <template>
   <section class="home">
     <img src="/static/img/waving.gif" alt="burakgur.com" width="72">
-    <h1 class="mt-normal">Hi! I'm a developer, designer, minimalist and brand geek.</h1>
+    <h1 class="mt-normal">Merhaba! Ben Burak.</h1>
     <p class="mt-normal">
-      I'm Burak. I'm co-founder of <a href="https://martiandigital.co/" target="_blank" class="hyperlink">Martian Digital</a>.
-      I write my articles about brands and advertisements through <a href="https://medium.com/burakgur" target="_blank" class="hyperlink">Medium</a>.
-      I share my designs on <a href="https://dribbble.com/burakgur" target="_blank" class="hyperlink">Dribbble</a>. I also love open source and push my codes to
-      <a href="https://github.com/burakgur" target="_blank" class="hyperlink">Github</a>.
+      Şu anda <a href="https://martiandigital.co/" target="_blank" class="hyperlink">Martian Digital</a> şirketinde remote olarak Front-end Developer pozisyonunda çalışıyorum.
+      Markalar ve reklamlarla ilgili yazılarımı <a href="https://medium.com/burakgur" target="_blank" class="hyperlink">Medium</a> üzerinden okuyabilirsiniz.
+      Çalışırken dinlediğim müzikleri <a href="https://open.spotify.com/playlist/706ygDjsS24R4wZj9rLe4o?si=aoVh6ooiTO6WBAfmLz2D8A" target="_blank" class="hyperlink">Spotify</a> listemden görebilirsiniz.
+      Ayrıca bu web sitesi de dahil tüm açık kaynak projelerimi <a href="https://github.com/burakgur" target="_blank" class="hyperlink">Github</a> üzerinden paylaşıyorum.
     </p>
     <a href="https://t.me/burakgur" target="_blank" class="semi hyperlink mt-normal">t.me/burakgur</a>
   </section>
@@ -16,4 +16,4 @@
 export default {
   name: 'Home'
 }
-</script> 
+</script>

@@ -7,9 +7,9 @@ import { store } from './store/store'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { faMoon, faSun } from '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
-import { faTwitter, faMediumM, faDribbble, faGithub } from '@fortawesome/free-brands-svg-icons'
+import { faTwitter, faMediumM, faGithub } from '@fortawesome/free-brands-svg-icons'
 
-library.add(faTwitter, faMediumM, faDribbble, faGithub, faMoon, faSun)
+library.add(faTwitter, faMediumM, faGithub, faMoon, faSun)
 
 
 window.eventBus = new Vue()
