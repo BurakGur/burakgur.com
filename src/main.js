@@ -7,9 +7,9 @@ import { store } from './store/store'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { faMoon, faSun } from '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
-import { faTwitter, faMediumM, faGithub } from '@fortawesome/free-brands-svg-icons'
+import { faTwitter, faMediumM, faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 
-library.add(faTwitter, faMediumM, faGithub, faMoon, faSun)
+library.add(faTwitter, faMediumM, faGithub, faMoon, faSun, faLinkedin)
 
 
 window.eventBus = new Vue()
@@ -22,9 +22,9 @@ document.documentElement.style.setProperty("--vh", `${vh}px`)
 
 /* eslint-disable no-new */
 new Vue({
-  el: '#app',
-  router,
-  store: store,
-  components: { App },
-  template: '<App/>'
+	el: '#app',
+	router,
+	store: store,
+	components: { App },
+	template: '<App/>'
 })
